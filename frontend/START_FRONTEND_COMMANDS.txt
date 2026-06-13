@@ -1,0 +1,8 @@
+Open PowerShell and run these commands one by one:
+
+cd "C:\Projects\IOT\energy_project\smart_home_energy_frontend"
+npm install
+npm run dev
+
+Open browser:
+http://localhost:5173
